@@ -5,13 +5,14 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
+    <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -27,12 +28,14 @@
 
 # 📖 Recipe App <a name="about-project"></a>
 
-**Hello Rails App:** 
+**Hello Rails App:**
 
-Hello Rails Backend is an implemention of a simple  random message API in Ruby on Rails that is implemented by a simple [React application](git@github.com:Katended/react_frontend.git).
+Hello Rails Backend is an implemention of a simple random message API in Ruby on Rails that is implemented by a simple [React application](git@github.com:Katended/react_frontend.git).
 
 ## 🛠 Built With <a name="built-with"></a>
+
 ## Tech Stack <a name="tech-stack"></a>
+
   <ul>
     <li>Ruby</li>
     <li>Ruby On Rails</li>
@@ -53,13 +56,17 @@ Hello Rails Backend is an implemention of a simple  random message API in Ruby o
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+
 In order to run this project you need:
-  * A basic understanding of Ruby, Rails ,React and Git
+
+- A basic understanding of Ruby, Rails ,React and Git
+
 ### Setup
 
 ```
 git@github.com:Katended/rails_backend.git
 ```
+
 ### Install
 
 1. Install Ruby
@@ -68,15 +75,12 @@ git@github.com:Katended/rails_backend.git
 4. Install Postgresql
 5. Clone this repo
 
-### 🚀 Live Demo 
-
-Coming soon!
-
-### 🚀 Front-end Link 
+### 🚀 Front-end Link
 
 [Front-end link](git@github.com:Katended/react_frontend.git)
 
 ### Usage
+
 To run the project, execute the following command:
 
 ```
@@ -88,13 +92,16 @@ To run the project, execute the following command:
 
   rails s
 ```
+
 ### Run Tests
+
 To run tests, run the following command:
 
 ```
 bundle exec rspec spec
 
 ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -138,7 +145,7 @@ Please support this project and be a part of something meaningful and impactful.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Grateful to all for inspiring codebases, your dedication and creativity made a lasting impact on our success. 
+Grateful to all for inspiring codebases, your dedication and creativity made a lasting impact on our success.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +158,6 @@ Absolutely! Please feel free to fork and reuse this repository for your own proj
 - **Is it okay to improve this repository? Will my changes be accepted?**
 
 Definitely! We welcome any improvements or new ideas you may have. If your changes are good and align with the project's goals, we would be happy to accept them.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
